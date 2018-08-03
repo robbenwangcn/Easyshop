@@ -1,5 +1,3 @@
-//public/src/components/App.vue
-
 <template>
   <div id="app">
     <div class="container">
